@@ -6,8 +6,7 @@
 * [Our Mission](/intoduction/Our-Mission.md)
 * [Open Source](/intoduction/Open-Source.md)
 * [Multiplayer Focus](/intoduction/Multiplayer-Focus.md)
-* [](/intoduction/Our-Mission.md)
-# Open-Source Projects
+## Open-Source Projects
 ### Websites & Services
 * [Best Mods](/projects/Best-Mods.md)
 * [Best Servers](/projects/Best-Servers.md)
