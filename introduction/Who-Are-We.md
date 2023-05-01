@@ -4,5 +4,5 @@
 # What Are Mods?
 We encourage and support the use of mods, which are a form of content creation created by individuals, companies, or communities outside of a game's original creators. Mods can and typically do have a significant impact on gameplay by adding **custom** content to a game such as models, levels/maps, sounds, scripts, and more. However, there are also mods that are designed to support other developers or provide additional functionality for server administrators and other users.
 
-**[Next](/introduction/Our-Mission.md)**  
+**[Next](/introduction/Our-Mission.md)** (*Our Mission*)  
 **[Table Of Contents](/README.md)**
